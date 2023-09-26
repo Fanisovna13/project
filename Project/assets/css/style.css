@@ -1,0 +1,12 @@
+.logo{
+    display: flex;
+}
+
+.logotype{
+    width: 70px;
+    padding-left: 10px;
+}
+
+a.hover_link:hover{
+    color: brown;
+}
